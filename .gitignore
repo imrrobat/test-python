@@ -1,0 +1,4 @@
+ramzha.txt
+venv/
+venv/*
+database.db
